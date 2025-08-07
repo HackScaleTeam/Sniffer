@@ -1,10 +1,10 @@
-# 🕵️‍♂️ Sniffer
+#  Sniffer
 
 **Sniffer** is a powerful Python-based tool for real-time packet sniffing and traffic manipulation. It's designed for cybersecurity professionals and ethical hackers to analyze, intercept, and modify network traffic — especially in **Man-in-the-Middle (MITM)** attack scenarios.
 
 ---
 
-## 🧠 Project Idea
+##  Project Idea
 
 The goal of this project is to provide a simple yet powerful framework to:
 - Intercept network traffic (HTTP)
@@ -16,18 +16,18 @@ All for educational and penetration testing purposes.
 
 ---
 
-## ⚙️ Features
+##  Features
 
-✅ Real-time packet sniffing using `scapy`  
-✅ Extract credentials and other sensitive info  
-✅ Modify HTTP responses on the fly  
-✅ Inject JavaScript into web pages  
-✅ Simulate SSLStrip attacks  
-✅ Easy CLI interface
+- Real-time packet sniffing using `scapy`  
+- Extract credentials and other sensitive info  
+- Modify HTTP responses on the fly  
+- Inject JavaScript into web pages  
+- Simulate SSLStrip attacks  
+- Easy CLI interface
 
 ---
 
-## 🧱 Requirements
+##  Requirements
 
 - Python 3.6 or higher
 - Linux OS (recommended)
